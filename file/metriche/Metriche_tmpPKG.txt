@@ -1,0 +1,26 @@
+
+Number_of_Classes: 1
+Number_of_Methods: 5
+Number_of_Variables: 3
+Number_of_Comments_on_Classes: 1
+Number_of_Comments_on_Methods: 4
+Number_of_Comments_on_Variables: 3
+Number_of_In_Line_Comments: 5
+Total_Number_of_Comments: 13
+ANYJ: 0.888888888889
+ANYC: 0.8
+LOC: 30
+Line_of_Comment: 48
+Comments_Density: 61.5384615385
+WPJC: 5.15384615385
+flesch_reading_ease: 59.3861538462
+flesch_kincaid_grade: 6.34615384615
+gunning_fog: 25.5333333333
+Tokens: 8.55555555556
+Nouns: 6.22222222222
+Verbs: 0.444444444444
+SPW: 0.222222222222
+RSYNC: 100.0
+PSYNC: 60.0
+ESYNC: 100.0
+DIR: 60.0

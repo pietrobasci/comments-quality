@@ -1,0 +1,26 @@
+Classe: public abstract class m {
+Prova commento classe
+Variabile: 	private int num;
+Prova commento variabile1
+Variabile:     private int num;
+Prova commento variabile2
+Variabile:     private int num;
+Prova variabile 3
+Metodo: 	public static int[] prova1(int i[]){
+Prova le funzioni1 Parametro passato al metodo prova1 array restituito da prova1
+In-Line: 
+Prova nel metodo1
+In-Line: 
+Seconda prova nel metodo1
+Metodo: 	public int prova2(String keyBinding){
+Prova le funzioni2 The key binding (the format of this is k
+In-Line: 
+Prova nel metodo 2. Descrizione var num
+In-Line: 
+seconda prova nel metodo 2
+Metodo: 	public int prova3(int i) throws IOException, Exception, ParseException{
+Prova le funzioni3 n aaa aaa d
+Metodo: 	public double prova4(int i, String s, boolean b){
+Prova le funzioni4 kk kk ll aaa
+In-Line: 
+Prova nel metodo 4 dopo if

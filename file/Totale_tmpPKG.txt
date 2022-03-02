@@ -1,0 +1,13 @@
+Prova commento classe
+Prova commento variabile1
+Prova commento variabile2
+Prova variabile 3
+Prova le funzioni1 Parametro passato al metodo prova1 array restituito da prova1
+Prova nel metodo1
+Seconda prova nel metodo1
+Prova le funzioni2 The key binding (the format of this is k
+Prova nel metodo 2. Descrizione var num
+seconda prova nel metodo 2
+Prova le funzioni3 n aaa aaa d
+Prova le funzioni4 kk kk ll aaa
+Prova nel metodo 4 dopo if
